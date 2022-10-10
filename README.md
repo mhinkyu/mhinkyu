@@ -10,7 +10,7 @@
 </div>  
   
 
-### <div align="center">I'm a passionate DevOps student, taking my first steps </div>  
+### <div align="center">I'm a passionate DevOps student, ⚡taking my first steps⚡ </div>  
   
 
 <div align="right">
@@ -25,10 +25,7 @@
   
 
 - 👀 I'm interested in 🏈⚽🎮🏋️📜  
-  
 
-- ⚡ Fun fact: I speak 4 languages   
-  
 
 <br/>  
  
